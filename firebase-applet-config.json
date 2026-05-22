@@ -1,10 +1,9 @@
-{
-  "projectId": "circular-nucleus-jh7sp",
-  "appId": "1:552542080469:web:ef30670350228b8637c15c",
-  "apiKey": "AIzaSyBTvIJRhZBajApuLPmb9JztB8O6R4r4AhE",
-  "authDomain": "circular-nucleus-jh7sp.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-087c197c-d73b-46e5-83fc-dab935c306c7",
-  "storageBucket": "circular-nucleus-jh7sp.firebasestorage.app",
-  "messagingSenderId": "552542080469",
-  "measurementId": ""
-}
+const firebaseConfig = {
+  apiKey: "AIzaSyD-l-Puzm7OHPAV5yGN08xvP2-MHM-ZARw",
+  authDomain: "seasonal-fruits-pabna.firebaseapp.com",
+  projectId: "seasonal-fruits-pabna",
+  storageBucket: "seasonal-fruits-pabna.firebasestorage.app",
+  messagingSenderId: "521954069341",
+  appId: "1:521954069341:web:420e53967f6e1808eb36b4",
+  measurementId: "G-2NMMRQE1K5"
+};
